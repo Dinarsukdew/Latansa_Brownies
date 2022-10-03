@@ -1,5 +1,9 @@
 /* #220C08, #15120F, #4D4D43, #000000, #0A0707 #804126 */
 
+* {
+  font-family: "Oswald", sans-serif !important;
+
+
 .hero {
   background-color: #ffffff;
 }
